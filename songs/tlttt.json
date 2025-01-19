@@ -1,0 +1,11 @@
+{
+  "phrase": "", # WORK IN PROGRESS
+  "word": "yearning",
+  "song_title": "The Last Time",
+  "album": "The Last Time",
+  "artist": ["The Thrillseekers", "Fisher"],
+  "genre": "progressive trance",
+  "year": 2008, 
+  "lyrics":true,
+  "longer_than_6min":true
+}
