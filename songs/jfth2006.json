@@ -6,5 +6,6 @@
   "artist": "Hybrid",
   "genre": ["breakbeat", "orchestral"],
   "year": 2006,
-  "lyrics": false
+  "lyrics": false,
+  "longer_than_6min": true
 }
