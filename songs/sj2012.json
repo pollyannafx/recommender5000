@@ -3,7 +3,7 @@
   "word": "realisation"
   "title": "Stranger",
   "album": "Multiverse",
-  "artist": "Jaytech",
+  "artist": ["Jaytech", "Steve Smith"],
   "genre": "progressive trance",
   "year": 2012,
   "lyrics": true, 
