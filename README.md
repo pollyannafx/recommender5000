@@ -2,7 +2,7 @@
 thing that recommends you electronic music
 
 
-i have a hard time recc'ing music to other people sometimes, so i am literally creating a website people can go to to receive music recommendations from me. 
+i have a hard time recc'ing music to other people sometimes, so i am literally creating a website people can go to to receive music recommendations from me. people ask me primarily for electronic music recommendations because electronic music is what i listen to most (and it's a musical umbrella that i feel goes often misunderstood as Hard Drugs Get Blackout Drunk Music). in the api for this project i want to include some favourites in addition to tracks that have just generally blown me away. 
 
 the recommender5000 will do this:
 - let the 'player' first filter recommendations by genre (if they want trance, i'll fetch them trance; if they want breakbeat, i'll fetch them breakbeat) 
@@ -13,3 +13,12 @@ the recommender5000 will do this:
 
 i'd like to clarify that this recommender5000 thing is still an idea. don't know how far i want to take this project. 
 (at the very least, i'd like to create an API for songs that i associate with certain words and phrases) 
+
+things i might add: 
+- true/false on each json file if the songs warrant a content warning?
+- true/false for explicit material? (so much of what i listen to is instrumental that idk if this is needed)
+- tags for certain aesthetics i think the songs adhere to?
+
+thing i should add and shouldnt forget:
+- i should add cover art that the api can fetch.
+- might also add brief song descriptions? idk how i'll fetch these idk if its a good idea to put them on the same json file
