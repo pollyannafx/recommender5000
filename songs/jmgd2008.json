@@ -6,6 +6,6 @@
   "artist": ["Jaytech", "Melody Gough"],
   "genre": "downtempo",
   "year": 2008,
-  "lyrics": true
+  "lyrics": true,
   "longer_than_6min": false
 }
