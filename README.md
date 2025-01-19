@@ -2,7 +2,9 @@
 thing that recommends you electronic music
 
 
-i have a hard time recc'ing music to other people sometimes, so what this project will aim to do is: 
+i have a hard time recc'ing music to other people sometimes, so i am literally creating a website people can go to to receive music recommendations from me. 
+
+the recommender5000 will do this:
 - let the 'player' first filter recommendations by genre (if they want trance, i'll fetch them trance; if they want breakbeat, i'll fetch them breakbeat) 
 - ask 'player' to answer a few questions
 - based on the questions asked, will ask 'player' to pick a word
