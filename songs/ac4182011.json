@@ -6,5 +6,6 @@
   "artist": "C418",
   "genre": "experimental",
   "year": 2011,
-  "lyrics": true
+  "lyrics": true, 
+  "longer_than_6min": false
 }
