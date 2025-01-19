@@ -2,7 +2,7 @@
 thing that recommends you electronic music
 
 
-i have a hard time recc'ing music to other people sometimes, so i am literally creating a website people can go to to receive music recommendations from me. 
+i have a hard time recc'ing music to other people sometimes, so i am literally creating a website people can go to to receive music recommendations from me. people ask me primarily for electronic music recommendations because electronic music is what i listen to most (and it's a musical umbrella that i feel goes often misunderstood). in the api for this project i want to include some favourites in addition to tracks that have just generally blown me away. 
 
 the recommender5000 will do this:
 - let the 'player' first filter recommendations by genre (if they want trance, i'll fetch them trance; if they want breakbeat, i'll fetch them breakbeat) 
