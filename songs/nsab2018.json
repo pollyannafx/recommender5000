@@ -3,7 +3,7 @@
   "word": "Detroit",
   "song_title": "Northern Soul",
   "album": "Common Ground",
-  "artist": "Above & Beyond",
+  "artist": ["Above & Beyond", "Richard Bedford"],
   "genre": "trance 2.0",
   "year": 2018, 
   "lyrics":true,
