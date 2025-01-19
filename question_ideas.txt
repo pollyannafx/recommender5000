@@ -1,0 +1,12 @@
+q1: it's the end of the world. you are the only human being left alive, and your hours are numbered. where do you go to to savor some of the last moments of your life?
+- the city
+- the sea
+q2: why does this place attract you?
+- its darkness has a strange sort of allure. it calls to me as i'm overcome with the reality that i will soon be gone like everyone else. 
+- i'm not really attracted to the place, i just chose somewhere to go.
+- i want to relive the memories of the people who once inhabited it. the place must've really meant something to folks at one point. 
+q3: will you wander elsewhere to finally die? 
+- no, i'm becoming attached to this place myself 
+- no, i'm too lazy to go anywhere 
+- yes, it's beginning to make me uncomfortable
+- yes, i want to use any energy left to explore
