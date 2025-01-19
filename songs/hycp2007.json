@@ -6,5 +6,6 @@
   "artist": "Pendulum",
   "genre": "Drum & Bass",
   "year": 2007,
-  "lyrics": true
+  "lyrics": true,
+  "longer_than_6min": false
 }
