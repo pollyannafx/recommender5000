@@ -4,7 +4,7 @@
   "title": "Choke",
   "album": "I Choose Noise",
   "artist": "Hybrid",
-  "genre": "midtempo breakbeat",
+  "genre": ["midtempo breakbeat", "industrial"],
   "year": 2006,
   "lyrics": true
 }
