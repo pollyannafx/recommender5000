@@ -18,5 +18,6 @@ things i might add:
 - true/false on each json file if the songs warrant a content warning?
 - true/false for explicit material? (so much of what i listen to is instrumental that idk if this is needed)
 - tags for certain aesthetics i think the songs adhere to?
+
 thing i should add and shouldnt forget:
 - i should add cover art that the api can fetch. 
