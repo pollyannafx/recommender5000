@@ -20,4 +20,5 @@ things i might add:
 - tags for certain aesthetics i think the songs adhere to?
 
 thing i should add and shouldnt forget:
-- i should add cover art that the api can fetch. 
+- i should add cover art that the api can fetch.
+- might also add brief song descriptions? idk how i'll fetch these idk if its a good idea to put them on the same json file
