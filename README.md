@@ -13,3 +13,8 @@ the recommender5000 will do this:
 
 i'd like to clarify that this recommender5000 thing is still an idea. don't know how far i want to take this project. 
 (at the very least, i'd like to create an API for songs that i associate with certain words and phrases) 
+
+things i might add: 
+- true/false on each json file if the songs warrant a content warning?
+- true/false for explicit material? (so much of what i listen to is instrumental that idk if this is needed)
+- tags for certain aesthetics i think the songs adhere to?
