@@ -6,5 +6,6 @@
   "artist": "Above & Beyond",
   "genre": "progressive trance",
   "year": 2006, 
-  "lyrics":false
+  "lyrics":false,
+  "longer_than_6min": false
 }
