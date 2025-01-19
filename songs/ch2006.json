@@ -6,5 +6,6 @@
   "artist": "Hybrid",
   "genre": ["midtempo breakbeat", "industrial"],
   "year": 2006,
-  "lyrics": true
+  "lyrics": true,
+  "longer_than_6min": true
 }
