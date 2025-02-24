@@ -1,0 +1,3 @@
+brainstorming. the. code.
+- https://realpython.com/python-quiz-application/ (kinda what you wanted to, but not the kind of quiz you were looking for) 
+- https://www.youtube.com/watch?v=gfV1a3ri1tk this looks WAY better than flask. 
