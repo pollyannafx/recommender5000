@@ -1,4 +1,4 @@
-q1: it's the end of the world. you are the only human being left alive, and your hours are numbered. where do you go to to savor some of the last moments of your life?
+q1: it's the end of the world. you are the only human being left alive, and your days are numbered. where do you go to to savor some of the last moments of your life?
 - the city
 - the sea
 q2: why does this place attract you?
